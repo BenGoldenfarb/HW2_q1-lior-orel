@@ -5,7 +5,7 @@
 #define HEBREW_YEAR_LENGTH 6
 #define NUMBER 0
 #define STRING 1
-
+#define OREL YA GAY
 // structs
 struct Worker
 {
